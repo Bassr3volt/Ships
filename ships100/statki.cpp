@@ -25,7 +25,7 @@ int main()
         cin>>strz1;
         cout<<"Podaj druga wspolrzedna(0-4): ";
         cin>>strz2;
-        
+
 
         if(plansza[strz1][strz2]==8)
         {
